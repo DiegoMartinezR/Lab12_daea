@@ -1,0 +1,6 @@
+C:\Users\USUARIO\OneDrive\Escritorio\lab12\semana11-.NET\Domain\bin\Debug\Domain.dll
+C:\Users\USUARIO\OneDrive\Escritorio\lab12\semana11-.NET\Domain\bin\Debug\Domain.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\lab12\semana11-.NET\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Users\USUARIO\OneDrive\Escritorio\lab12\semana11-.NET\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\lab12\semana11-.NET\Domain\obj\Debug\Domain.dll
+C:\Users\USUARIO\OneDrive\Escritorio\lab12\semana11-.NET\Domain\obj\Debug\Domain.pdb
